@@ -1,0 +1,34 @@
+#background{
+    text-align: center;
+    margin-top: 2%;
+}
+img{
+    width: 30%;
+    /* height: 10% */
+    margin-top: 0%;
+    margin-bottom: 20px;
+}
+#image-pic{
+    width: 22%;
+    margin-top: 5px;
+}
+#search-bar{
+    width: 45%;
+    height: 42px;
+    border-radius: 20px;
+    border: 1px solid #dcd4d4;
+    padding-left: 15px;
+    
+}
+
+
+.btn{
+    margin-top: 25px ;
+    margin-left: 10px;
+    font-size: 14px;
+    /* width: 20%; */
+}
+
+.btn:hover{
+    border: 1px solid rgb(205, 203, 203);
+}
